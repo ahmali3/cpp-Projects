@@ -1,4 +1,4 @@
-Full name: Ahmed Ali
+# Full name: Ahmed Ali
 
 Program that implements a book database that stores book records, and each book records has these fields:
 
@@ -9,20 +9,20 @@ Book type: hardcover, softcover, or digital
 ISBN #
 number of pages
 
-Compilation Instructions
-------------------------
+# Compilation Instructions
+# ------------------------
 
 Compile the Makefile on the Linux command line like -> make test
 then run the Makefile like ->./test 
 the program will then compile and be ready to use!
 
-Running Instructions
---------------------
+# Running Instructions
+# --------------------
 When you compile the program, it will show you the menu. You just need to select the option from the menu and provide the required valid information to the program to produce the required results.
 
 
-Key Features
-------------
+# Key Features
+# ------------
 
 This program is object oriented.
 It handles invalid input from the user.
